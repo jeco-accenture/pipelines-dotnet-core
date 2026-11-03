@@ -1,5 +1,3 @@
-https://dev.azure.com/ado-jct-001/todo-api/_apis/build/status%2Fjeco-accenture.pipelines-dotnet-core?branchName=master
-
 [![Build Status](https://dev.azure.com/ado-jct-001/todo-api/_apis/build/status%2Fjeco-accenture.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/ado-jct-001/todo-api/_build/latest?definitionId=2&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
